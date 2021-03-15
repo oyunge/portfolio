@@ -5,7 +5,7 @@ import email from '../img/emailme.svg';
 import location from '../img/location.svg';
 import Tittle from '../Components/Tittle';
 
-function ContactPage() {
+function ContactPage() { 
     return (
         <div>
             <div className="title">

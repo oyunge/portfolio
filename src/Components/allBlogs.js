@@ -23,7 +23,7 @@ const blogs = [
         month: 'Dec',
         year: '2019'
     },
-    {
+    { 
         id: 3,
         image: blog3,
         title: 'UI/UX Design Starter with Figma',
