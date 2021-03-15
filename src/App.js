@@ -4,7 +4,6 @@ import NavBar from './Components/NavBar';
 import HomePage from './Pages/HomePage';
 import AboutPage from './Pages/AboutPage';
 import PortfoliosPage from './Pages/PortfoliosPage';
-
 import BlogPage from './Pages/BlogPage';
 import ContactPage from './Pages/ContactPage';
 import {useState} from 'react';
